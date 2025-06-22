@@ -1,4 +1,8 @@
 .git/
 .vscode/
+.dockerignore
 Dockerfile
 node_modules/
+auth/
+*.tar
+result.json
